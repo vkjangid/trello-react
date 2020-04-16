@@ -1,0 +1,9 @@
+.add-card {
+    width: 100%;
+    color: rgb(102, 101, 101) !important;
+}
+
+.add-card:hover {
+    background-color: rgb(189, 188, 188);
+    color: black !important;
+}

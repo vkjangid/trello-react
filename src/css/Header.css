@@ -1,0 +1,40 @@
+* {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+nav {
+    background-color: rgba(255, 255, 255, 0.1);
+    margin-bottom: 0.5em !important;
+}
+
+.header-part-1 {
+    width: 53%;
+}
+
+.search-box {
+    width: 30%;
+    display: inline-block;
+}
+
+li {
+    display: inline;
+}
+
+.search-box input {
+    background-color: grey;
+    height: 2.1em;
+    border: transparent
+}
+
+.search-icon {
+    height: 2.1em;
+}
+
+.trello-logo img {
+    width: 6em;
+}
+
+.user-name {
+    padding: 0.25em 0.45em !important;
+}
